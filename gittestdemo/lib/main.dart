@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Hello World',
+              'Hello. How are you?',
               style: TextStyle(fontSize: 40, color: Colors.red),
             ),
           ],
