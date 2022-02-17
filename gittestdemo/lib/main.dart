@@ -42,6 +42,8 @@ class _MyHomePageState extends State<MyHomePage> {
               'Day la code cua branch B1',
               style: TextStyle(fontSize: 40, color: Colors.red),
             ),
+            Text('Test merge B1 va main',
+            style: TextStyle(fontSize: 30,color: Colors.yellow),)
           ],
         ),
       ),
